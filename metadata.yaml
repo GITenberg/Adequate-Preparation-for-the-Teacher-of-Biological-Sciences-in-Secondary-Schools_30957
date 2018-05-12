@@ -1,0 +1,26 @@
+_repo: Adequate-Preparation-for-the-Teacher-of-Biological-Sciences-in-Secondary-Schools_30957
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McDonald, J. Daley (James Daley)
+    alias: McDonald, James Daley
+    birthdate: 1892
+    gutenberg_agent_id: '34915'
+    url: http://www.gutenberg.org/2009/agents/34915
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30957'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Teachers -- Training of'
+title: Adequate Preparation for the Teacher of Biological Sciences in Secondary Schools
+url: http://www.gutenberg.org/ebooks/30957
